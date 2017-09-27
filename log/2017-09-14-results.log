@@ -1,0 +1,126 @@
+{"level":"debug","message":"Debugging info","timestamp":"23:28:42"}
+{"level":"info","message":"Hello world","timestamp":"23:28:42"}
+{"level":"error","message":"Error info","timestamp":"23:28:42"}
+{"level":"debug","message":"Debugging info","timestamp":"23:43:56"}
+{"level":"info","message":"Hello world","timestamp":"23:43:56"}
+{"level":"error","message":"Error info","timestamp":"23:43:56"}
+{"level":"info","message":"#### CARTEIRA CRIADA #####","timestamp":"23:47:56"}
+{"level":"debug","message":"Debugging info","timestamp":"23:49:33"}
+{"level":"info","message":"Hello world","timestamp":"23:49:33"}
+{"level":"error","message":"Error info","timestamp":"23:49:33"}
+{"level":"debug","message":"Debugging info","timestamp":"23:51:30"}
+{"level":"info","message":"Hello world","timestamp":"23:51:30"}
+{"level":"error","message":"Error info","timestamp":"23:51:30"}
+{"level":"debug","message":"Debugging info","timestamp":"23:51:46"}
+{"level":"info","message":"Hello world","timestamp":"23:51:46"}
+{"level":"error","message":"Error info","timestamp":"23:51:46"}
+{"level":"debug","message":"Debugging info","timestamp":"23:53:32"}
+{"level":"info","message":"Hello world","timestamp":"23:53:32"}
+{"level":"error","message":"Error info","timestamp":"23:53:32"}
+{"level":"debug","message":"Debugging info","timestamp":"23:54:04"}
+{"level":"info","message":"Hello world","timestamp":"23:54:04"}
+{"level":"error","message":"Error info","timestamp":"23:54:04"}
+{"level":"info","message":"#### Consultando saldo desse ID #####","timestamp":"23:54:08"}
+{"level":"debug","message":"Debugging info","timestamp":"23:55:10"}
+{"level":"info","message":"Hello world","timestamp":"23:55:10"}
+{"level":"error","message":"Error info","timestamp":"23:55:10"}
+{"level":"info","message":"#### Consultando saldo desse ID #####","timestamp":"23:55:22"}
+{"level":"debug","message":"Debugging info","timestamp":"23:56:01"}
+{"level":"info","message":"Hello world","timestamp":"23:56:01"}
+{"level":"error","message":"Error info","timestamp":"23:56:01"}
+{"level":"debug","message":"Debugging info","timestamp":"23:57:00"}
+{"level":"info","message":"Hello world","timestamp":"23:57:00"}
+{"level":"error","message":"Error info","timestamp":"23:57:00"}
+{"level":"info","message":"#### Consultando saldo desse ID #####","timestamp":"23:57:04"}
+{"level":"debug","message":"Debugging info","timestamp":"00:06:58"}
+{"level":"info","message":"Hello world","timestamp":"00:06:58"}
+{"level":"error","message":"Error info","timestamp":"00:06:58"}
+{"level":"debug","message":"Debugging info","timestamp":"00:07:29"}
+{"level":"info","message":"Hello world","timestamp":"00:07:29"}
+{"level":"error","message":"Error info","timestamp":"00:07:29"}
+{"level":"info","message":"#### Consultando saldo desse ID #####","timestamp":"00:07:31"}
+{"level":"debug","message":"Debugging info","timestamp":"00:25:29"}
+{"level":"info","message":"Hello world","timestamp":"00:25:29"}
+{"level":"error","message":"Error info","timestamp":"00:25:29"}
+{"level":"info","message":"#### Consultando saldo desse ID #####","timestamp":"00:26:20"}
+{"level":"debug","message":"Debugging info","timestamp":"00:27:19"}
+{"level":"info","message":"Hello world","timestamp":"00:27:19"}
+{"level":"error","message":"Error info","timestamp":"00:27:19"}
+{"level":"info","message":"#### Consultando saldo desse ID #####","timestamp":"00:27:28"}
+{"level":"debug","message":"Debugging info","timestamp":"00:28:09"}
+{"level":"info","message":"Hello world","timestamp":"00:28:09"}
+{"level":"error","message":"Error info","timestamp":"00:28:09"}
+{"level":"debug","message":"Debugging info","timestamp":"00:28:18"}
+{"level":"info","message":"Hello world","timestamp":"00:28:18"}
+{"level":"error","message":"Error info","timestamp":"00:28:18"}
+{"level":"debug","message":"Debugging info","timestamp":"00:31:25"}
+{"level":"info","message":"Hello world","timestamp":"00:31:25"}
+{"level":"error","message":"Error info","timestamp":"00:31:25"}
+{"level":"debug","message":"Debugging info","timestamp":"00:32:24"}
+{"level":"info","message":"Hello world","timestamp":"00:32:24"}
+{"level":"error","message":"Error info","timestamp":"00:32:24"}
+{"level":"debug","message":"Debugging info","timestamp":"00:34:02"}
+{"level":"info","message":"Hello world","timestamp":"00:34:02"}
+{"level":"error","message":"Error info","timestamp":"00:34:02"}
+{"level":"debug","message":"Debugging info","timestamp":"00:35:08"}
+{"level":"info","message":"Hello world","timestamp":"00:35:08"}
+{"level":"error","message":"Error info","timestamp":"00:35:08"}
+{"level":"debug","message":"Debugging info","timestamp":"00:37:03"}
+{"level":"info","message":"Hello world","timestamp":"00:37:03"}
+{"level":"error","message":"Error info","timestamp":"00:37:03"}
+{"level":"debug","message":"Debugging info","timestamp":"00:37:34"}
+{"level":"info","message":"Hello world","timestamp":"00:37:34"}
+{"level":"error","message":"Error info","timestamp":"00:37:34"}
+{"level":"debug","message":"Debugging info","timestamp":"00:42:16"}
+{"level":"info","message":"Hello world","timestamp":"00:42:16"}
+{"level":"error","message":"Error info","timestamp":"00:42:16"}
+{"level":"debug","message":"Debugging info","timestamp":"00:44:00"}
+{"level":"info","message":"Hello world","timestamp":"00:44:00"}
+{"level":"error","message":"Error info","timestamp":"00:44:00"}
+{"level":"debug","message":"Debugging info","timestamp":"00:47:13"}
+{"level":"info","message":"Hello world","timestamp":"00:47:13"}
+{"level":"error","message":"Error info","timestamp":"00:47:13"}
+{"level":"debug","message":"Debugging info","timestamp":"11:23:58"}
+{"level":"info","message":"Hello world","timestamp":"11:23:58"}
+{"level":"error","message":"Error info","timestamp":"11:23:58"}
+{"level":"debug","message":"Debugging info","timestamp":"11:27:04"}
+{"level":"info","message":"Hello world","timestamp":"11:27:04"}
+{"level":"error","message":"Error info","timestamp":"11:27:04"}
+{"level":"debug","message":"Debugging info","timestamp":"11:28:28"}
+{"level":"info","message":"Hello world","timestamp":"11:28:28"}
+{"level":"error","message":"Error info","timestamp":"11:28:28"}
+{"level":"debug","message":"Debugging info","timestamp":"11:31:43"}
+{"level":"info","message":"Hello world","timestamp":"11:31:43"}
+{"level":"error","message":"Error info","timestamp":"11:31:43"}
+{"level":"debug","message":"Debugging info","timestamp":"11:32:06"}
+{"level":"info","message":"Hello world","timestamp":"11:32:06"}
+{"level":"error","message":"Error info","timestamp":"11:32:06"}
+{"level":"debug","message":"Debugging info","timestamp":"11:34:47"}
+{"level":"info","message":"Hello world","timestamp":"11:34:47"}
+{"level":"error","message":"Error info","timestamp":"11:34:47"}
+{"level":"debug","message":"Nome do usuario","timestamp":"11:35:12"}
+{"level":"debug","message":"Debugging info","timestamp":"11:43:09"}
+{"level":"info","message":"Hello world","timestamp":"11:43:09"}
+{"level":"error","message":"Error info","timestamp":"11:43:09"}
+{"level":"debug","message":"Debugging info","timestamp":"11:43:51"}
+{"level":"info","message":"Hello world","timestamp":"11:43:51"}
+{"level":"error","message":"Error info","timestamp":"11:43:51"}
+{"level":"debug","message":"Nome do usuario","timestamp":"11:43:58"}
+{"level":"debug","message":"Debugging info","timestamp":"11:45:11"}
+{"level":"info","message":"Hello world","timestamp":"11:45:11"}
+{"level":"error","message":"Error info","timestamp":"11:45:11"}
+{"level":"debug","message":"Nome do usuario","timestamp":"11:45:22"}
+{"level":"debug","message":"Debugging info","timestamp":"11:53:02"}
+{"level":"info","message":"Hello world","timestamp":"11:53:02"}
+{"level":"error","message":"Error info","timestamp":"11:53:02"}
+{"level":"debug","message":"Nome do usuario","timestamp":"11:53:40"}
+{"level":"debug","message":"Debugging info","timestamp":"11:54:50"}
+{"level":"info","message":"Hello world","timestamp":"11:54:50"}
+{"level":"error","message":"Error info","timestamp":"11:54:50"}
+{"level":"debug","message":"Debugging info","timestamp":"11:55:47"}
+{"level":"info","message":"Hello world","timestamp":"11:55:47"}
+{"level":"error","message":"Error info","timestamp":"11:55:47"}
+{"level":"debug","message":"Debugging info","timestamp":"11:59:32"}
+{"level":"info","message":"Hello world","timestamp":"11:59:32"}
+{"level":"error","message":"Error info","timestamp":"11:59:32"}
+{"level":"info","message":"#### Consultando saldo desse ID #####","timestamp":"13:21:11"}
